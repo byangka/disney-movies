@@ -1,3 +1,60 @@
 body{
-	background-color: red;
+	margin: 10;
+	font-family: fantasy, helvetica, arial;
+}
+
+header{
+	background-color: #FFA07A;
+	text-align: center;
+	padding-top: 80px;
+	padding-bottom: 80px;
+	font-size: 30px;
+}
+
+h1, h2{
+	font-family: 'Architects Daughter', cursive;
+}
+
+header h2{
+	color: #8B0000;
+}
+
+header img{
+	border-radius: 1500px;
+	border: 15px solid; color:  #F08080
+}
+
+main{
+	max-width: 8000px;
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+main img{
+	max-width: 8000px;
+}
+
+h2{
+	font-size: 40px;
+	color: #800000;
+}
+
+p{
+	font-size: 20px;
+	color: #800000;
+}
+
+a{
+	color: #3CB371;
+}
+
+a:hover{
+	color: #F08080;
+}
+
+footer{
+	background-color: #FFA07A;
+	text-align: center;
+	padding: 20px;
 }
